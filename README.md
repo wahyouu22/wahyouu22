@@ -1,24 +1,7 @@
 <!-- Banner Gambar -->
-<h1 class="typing">HI, I'M WAHYOU</h1>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 12ch }
-}
-@keyframes blink-caret {
-  50% { border-color: transparent }
-}
-.typing {
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: 3px solid #0ff;
-  width: 12ch;
-  animation:
-    typing 3s steps(12),
-    blink-caret 0.75s step-end infinite;
-}
-</style>
+<p align="center">
+  <img src="assets/banner.png" alt="Profile Banner" width="600%" />
+</p>
 
 ## 🛠️ Tools & Tech
 
