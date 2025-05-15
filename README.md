@@ -1,12 +1,12 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="assets/banner.png">
+  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Wahyu!</h1>
 
 <p align="center">
-  🔭 I'm currently working on a Laravel-based project <br/>
+  🔭 I'm currently learning on a Laravel-based project <br/>
   🌱 I’m currently learning Laravel, Git, and Midtrans API <br/>
   📫 How to reach me: <a href="mailto:youremail@example.com">youremail@example.com</a>
 </p>
