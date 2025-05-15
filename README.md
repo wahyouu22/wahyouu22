@@ -3,7 +3,7 @@
   <img src="assets/banner.png" alt="Profile Banner" width="600%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Wahyu!</h1>
+<h1 align="center">Hi 👋, I'm Wahyou!</h1>
 
 <p align="center">
   🔭 I'm currently learning on a Laravel-based project <br/>
