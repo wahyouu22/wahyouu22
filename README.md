@@ -3,16 +3,6 @@
   <img src="assets/banner.png" alt="Profile Banner" width="600%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Wahyu!</h1>
-
-<p align="center">
-  🔭 I'm currently learning on a Laravel-based project <br/>
-  🌱 I’m currently learning Laravel, Git, and Midtrans API <br/>
-  📫 How to reach me: <a href="mailto:youremail@example.com">adjiewahyudi0@gmail.com</a>
-</p>
-
----
-
 ## 🛠️ Tools & Tech
 
 <p>
@@ -21,8 +11,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
----
 
 ## 📈 GitHub Stats
 
