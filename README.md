@@ -1,6 +1,6 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="https://https://as2.ftcdn.net/v2/jpg/05/68/98/15/1000_F_568981524_2irG4VUSs06xbahAihTpkuSfxKkw8FqX.jpg/banner.png" alt="Banner" width="100%" />
+  <img src="assets/banner.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Wahyu!</h1>
