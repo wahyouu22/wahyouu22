@@ -1,6 +1,6 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="600%" />
+  <img src="https://via.placeholder.com/1200x300.png?text=Banner+Profile" alt="Banner Profile" />
 </p>
 
 ## 🛠️ Tools & Tech
