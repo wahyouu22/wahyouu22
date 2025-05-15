@@ -8,7 +8,7 @@
 <p align="center">
   🔭 I'm currently learning on a Laravel-based project <br/>
   🌱 I’m currently learning Laravel, Git, and Midtrans API <br/>
-  📫 How to reach me: <a href="mailto:youremail@example.com">youremail@example.com</a>
+  📫 How to reach me: <a href="mailto:youremail@example.com">adjiewahyudi0@gmail.com</a>
 </p>
 
 ---
