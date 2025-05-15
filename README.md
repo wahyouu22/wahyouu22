@@ -1,6 +1,6 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="assets/banner.png" alt="Profile Banner" width="100%" />
+  <img src="assets/banner.png" alt="Profile Banner" width="600%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Wahyu!</h1>
@@ -32,14 +32,3 @@
 </p>
 
 ---
-
-## ✨ Fun Fact
-
-- I'm into pixel art & retro games 👾
-- I love building real-world apps with Laravel!
-
----
-
-<p align="center">
-  Made with ❤️ by Wahyu
-</p>
