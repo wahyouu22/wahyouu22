@@ -1,6 +1,6 @@
 <!-- Banner Gambar -->
 <p align="center">
-  <img src="banner.png/1200x300.png?text=Banner+Profile" alt="Banner Profile" />
+  <img src="https://raw.githubusercontent.com/username/repo/branch/assets/banner.png" alt="Banner Profile" />
 </p>
 
 ## 🛠️ Tools & Tech
